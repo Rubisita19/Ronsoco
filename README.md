@@ -1,3 +1,3 @@
 # Ronsoco
 implementación de merchandising
-...
+
